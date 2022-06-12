@@ -1,2 +1,4 @@
 # Ignore the cache dir
 /app/__pycache__
+
+/app/cid_meta.txt
